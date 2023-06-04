@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-78291d3c","path":"/docs/music/GAME.html","title":"“心动记录”手游 - 独占翻唱曲","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1685892455000,"updatedTime":1685892455000,"contributors":[{"name":"一只鬆","email":"yzsong06@outlook.com","commits":1}]},"filePathRelative":"docs/music/GAME.md"}');export{t as data};
