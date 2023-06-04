@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-41e3c8da","path":"/docs/music/OP.html","title":"主题曲（OP）& 插曲","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1685892455000,"updatedTime":1685892455000,"contributors":[{"name":"一只鬆","email":"yzsong06@outlook.com","commits":1}]},"filePathRelative":"docs/music/OP.md"}');export{e as data};
